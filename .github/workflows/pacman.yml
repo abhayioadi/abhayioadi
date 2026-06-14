@@ -23,7 +23,7 @@ jobs:
         with:
           github_user_name: abhayioadi
 
-      - name: ensure dark fallback exists
+      - name: Ensure dark fallback exists
         run: |
           if [ ! -f dist/pacman-contribution-graph-dark.svg ] && [ -f dist/pacman-contribution-graph.svg ]; then
             cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
