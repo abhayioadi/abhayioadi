@@ -25,8 +25,13 @@ jobs:
 
       - name: Ensure dark fallback exists
         run: |
-          if [ ! -f dist/pacman-contribution-graph-dark.svg ] && [ -f dist/pacman-contribution-graph.svg ]; then
+          if [ -f dist/pacman-contribution-graph-dark.svg ]; then
+            echo "Dark Pacman SVG already exists."
+          elif [ -f dist/pacman-contribution-graph.svg ]; then
             cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
+            echo "Created dark fallback SVG from light SVG."
+          else
+            echo "::warning::Missing dist/pacman-contribution-graph.svg; dark fallback was not created."
           fi
 
       - name: push pacman-contribution-graph.svg to the output branch
