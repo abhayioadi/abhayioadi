@@ -225,7 +225,7 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 <br/>
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayioadi&theme=radical) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayioadi&theme=radical)
 <!-- Note: Profile summary cards are temporarily commented out due to Vercel API rate limits on the public instance. -->
 
 </div>
