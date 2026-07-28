@@ -206,7 +206,8 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abhayioadi&theme=radical&hide_border=true" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=abhayioadi&theme=radical&hide_border=true" /> -->
+<!-- Note: Streak stats is temporarily commented out due to public API rate limits and proxy errors. -->
 
 </div>
 
