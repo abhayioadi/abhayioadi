@@ -204,7 +204,7 @@ I focus on creating clean, accessible, and user-centered interfaces that balance
 <img height="170" src="https://github-stats-extended.vercel.app/api?username=abhayioadi&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhayioadi&layout=compact&theme=radical&hide_border=true" />
 
-<br/><br/>
+<br/>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=abhayioadi&theme=radical&hide_border=true" /> -->
 <!-- Note: Streak stats is temporarily commented out due to public API rate limits and proxy errors. -->
