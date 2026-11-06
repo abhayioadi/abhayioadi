@@ -1,0 +1,33 @@
+{
+  "_comment": "Featured projects, in README order. Star/fork/language come live from the API when repo exists on GitHub; description overrides default.",
+  "projects": [
+    {
+      "id": "TextInsight",
+      "repo": "TextInsight",
+      "name": "TextInsight",
+      "description": "Intelligent AI text analysis system with interactive visualizations and 3D animations.",
+      "language": "Python"
+    },
+    {
+      "id": "SpaceTechHub",
+      "repo": "space-tech-hub",
+      "name": "SpaceTechHub",
+      "description": "Curated hub for space technology featuring real-time stats and an interactive experience.",
+      "language": "JavaScript"
+    },
+    {
+      "id": "TravelApp-UIUX",
+      "repo": "TravelApp-UIUX",
+      "name": "TravelApp UI/UX",
+      "description": "Modernizing city-wide transit experiences. Design systems, wireframes, and prototypes in Figma.",
+      "language": "Figma"
+    },
+    {
+      "id": "ForestFire_detection",
+      "repo": "ForestFire_detection",
+      "name": "Forest Fire Detection",
+      "description": "Sensor-based wildfire monitoring and early detection system with real-time alerts.",
+      "language": "IoT"
+    }
+  ]
+}
