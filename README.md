@@ -221,12 +221,12 @@ crafting digital experiences that feel intuitive, accessible, and effortlessly f
 
 <sub>
 
-| project | live | stack |
+<!--| project | live | stack |
 |---|---|---|
 | **[TextInsight](https://github.com/abhayioadi)** | [Live Demo](https://abhayadityars.vercel.app/) | `Python` `ML` `React` |
 | **[SpaceTechHub](https://github.com/abhayioadi/space-tech-hub)** | [spacetechhub.vercel.app](https://spacetechhub.vercel.app/) | `HTML` `CSS` `JavaScript` |
 | **[UI/UX Travel App](https://abhayadityars.vercel.app/)** | [abhayadityars.vercel.app](https://abhayadityars.vercel.app/) | `Figma` `Wireframing` `UI/UX` |
-| **[Forest Fire Detection](https://github.com/abhayioadi/ForestFire_detection)** | [forestfiredetection.vercel.app](https://forestfiredetection.vercel.app/) | `IoT` `Sensors` `Arduino` |
+| **[Forest Fire Detection](https://github.com/abhayioadi/ForestFire_detection)** | [forestfiredetection.vercel.app](https://forestfiredetection.vercel.app/) | `IoT` `Sensors` `Arduino` |-->
 
 </sub>
 
@@ -236,6 +236,6 @@ crafting digital experiences that feel intuitive, accessible, and effortlessly f
 
 <div align="center">
 
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
+<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110`</sub>
 
 </div>
