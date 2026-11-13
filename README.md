@@ -199,7 +199,7 @@ crafting digital experiences that feel intuitive, accessible, and effortlessly f
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://abhayadityars.vercel.app/">
+  <a href="https://www.figma.com/design/EbTDw7O2orEteKjzCEtx7c/Untitled?node-id=1-4160&t=sOGVhRxAXu92PSfw-1">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-TravelApp-UIUX-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-TravelApp-UIUX-light.svg">
